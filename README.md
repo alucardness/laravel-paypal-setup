@@ -1,4 +1,4 @@
-<h1>Laravel Paypal Setup with Omni Library</h1>
+<h1>Laravel Paypal Setup with OmniPay Library</h1>
 
 <p>This README.md file provides instructions on how to set up Laravel with the OmniPay library to enable payments through Paypal.</p>
 
