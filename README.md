@@ -27,7 +27,7 @@ composer require league/omnipay
 composer require league/omnipay-paypal
 ```
 
-3.Once the installation is complete, open your Laravel project's .env file and add your PayPal API credentials. The credentials are required to connect to the PayPal API and process payments. The credentials can be obtained from your PayPal <a href="https://developer.paypal.com/">Paypal Developer</a> account.
+3.Once the installation is complete, open your Laravel project's .env file and add your PayPal API credentials. The credentials are required to connect to the PayPal API and process payments. The credentials can be obtained from your <a href="https://developer.paypal.com/">Paypal Developer</a> account.
 
 <ol>
     <li>Navigate to the <code>Apps & Credentials</code> tab.</li>
