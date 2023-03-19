@@ -212,3 +212,14 @@ class PaymentController extends Controller
     <input type="submit" name="submit" value="Pay Now">
 </form>
 ```
+
+7.For <code>Production</code> mode:
+<br>
+
+<p>Set the test mode to false in the <code>constructor</code>.</p>
+
+```php
+$this->gateway->setTestMode(false);
+```
+
+<p>and change your <code>credentials</code> in the <code>.env</code> file with your production ones.</p>
